@@ -1,0 +1,5 @@
+{
+  "name": "建築スケッチマップ (Architectural Sketch Map)",
+  "description": "建築スケッチを地図上で共有・閲覧できるプラットフォームのポータルサイト。地図の閲覧とスケッチの投稿が可能です。",
+  "requestFramePermissions": []
+}
